@@ -13,3 +13,5 @@ The toggle controls whether the auto-clear runs on boot. Although, This Does Mak
 
 ### DISCLAIMER This app Partially features AI Generated Code!!
 ###
+
+<img width="420" height="744" alt="Screenshot 2026-06-06 204458" src="https://github.com/user-attachments/assets/18803dd7-54c2-44c6-b09a-1f4f79e7423d" />
