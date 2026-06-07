@@ -10,3 +10,6 @@ Death To Navigator restores the old UI by automatically clearing the storage cac
 It works by using Android's Accessibility Service to navigate into Settings and click Clear Storage on your behalf, no PC or root required.
 
 The toggle controls whether the auto-clear runs on boot. You can also trigger it manually with the button. Although, This Does Make Your Headset Boot And Reach Home Slower, Its Helps Overall Performance A lot!
+
+### DISCLAIMER This app Partially features AI Generated Code!!
+###
