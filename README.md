@@ -1,5 +1,5 @@
 # DeathToNavigator
-"DeathToNavigator" Is a simple app that disables the new navigator ui on boot of your meta quest 2, 3s, 3 headset!
+"DeathToNavigator" Is a simple app that disables the new navigator ui on boot of your meta quest 2 headset!
 
 A recent Meta Quest update replaced the classic home UI with a new SHITTY interface called Navigator.
 
