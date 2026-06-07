@@ -5,7 +5,7 @@ A recent Meta Quest update replaced the classic home UI with a new SHITTY interf
 
 This UI Change Ultimately Killed Most Performance For Older Headsets (Quest 2).
 
-Death To Navigator restores the old UI by automatically clearing the storage cache of the Quest home shell (com.oculus.vrshell) on every boot!
+DeathToNavigator restores the old UI by automatically clearing the storage cache of the Quest home shell.
 
 It works by using Android's Accessibility Service to navigate into Settings and click Clear Storage on your behalf, no PC or root required.
 
