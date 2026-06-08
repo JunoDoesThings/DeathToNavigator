@@ -11,6 +11,14 @@ The Auto Clear works by using Android's Accessibility Service to navigate into S
 
 The toggle controls whether the auto-clear runs on boot. Although, This Does Make Your Headset Boot And Reach Home Slower, Its Helps Overall Performance A lot! (Only On Quest 2)
 
+# FOR QUEST 3/3s Users
+
+Sadly Quest 3/3s Systems Dont Support Androids Accessibility settings, i added a manual mode & On-Boot Shell Settings Mode!
+
+Step 1: Scroll To "Storage & Cache" In Meta Horizon Shell App Settings After Clicking "KILL IT."
+Step 2: Click "Clear Storage"
+Step 3: Let It Respring The Shell, And You *Should* See Focused UI!
+
 ### DISCLAIMER 1 Auto Cache Refresh ONLY WORKS on Quest 2 Systems, Meta fully locked down quest 3, 3s HorizonOS!!
 ###
 
