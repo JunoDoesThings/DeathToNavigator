@@ -11,7 +11,7 @@ The Auto Clear works by using Android's Accessibility Service to navigate into S
 
 The toggle controls whether the auto-clear runs on boot. Although, This Does Make Your Headset Boot And Reach Home Slower, Its Helps Overall Performance A lot! (Only On Quest 2)
 
-##FOR QUEST 3/3s Users
+## FOR QUEST 3/3s Users
 
 Sadly Quest 3/3s Systems Dont Support Androids Accessibility settings, i added a manual mode & On-Boot Shell Settings Mode!
 
