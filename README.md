@@ -11,10 +11,10 @@ The Auto Clear works by using Android's Accessibility Service to navigate into S
 
 The toggle controls whether the auto-clear runs on boot. Although, This Does Make Your Headset Boot And Reach Home Slower, Its Helps Overall Performance A lot! (Only On Quest 2)
 
-### DISCLAIMER 1 Auto Cache Refresh ONLY WORKS on Quest 2 Systems, Meta fully locked down quest 3, 3s HorizonOS (Actively Searching For Solutions, Dont Expect It Though)!!
+### DISCLAIMER 1 Auto Cache Refresh ONLY WORKS on Quest 2 Systems, Meta fully locked down quest 3, 3s HorizonOS!!
 ###
 
-### DISCLAIMER 2 I Would Recommend Disabling Auto System Updates Using ADB (adb shell pm disable-user --user 0 com.oculus.updater)!!
+### DISCLAIMER 2 I Would Recommend Disabling Auto System Updates Using ADB!! (adb shell pm disable-user --user 0 com.oculus.updater)
 ###
 
 ### DISCLAIMER 3 This app Partially features AI Generated Code!!
