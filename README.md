@@ -1,4 +1,16 @@
 # DeathToNavigator
+
+# ITS SO OVER NOOOOO
+meta has recently patched this method to remove the "focused" UI, now since i have no other reason to work on this (i use a vive pro eye now) i will be discontinuing this, cya later.
+
+## also hi bplayz!
+
+
+
+
+
+
+
 "DeathToNavigator" Is a simple app that disables the new navigator ui on boot of your meta quest 2, 3, 3S headset!
 
 A recent Meta Quest update replaced the classic home UI with a new SHITTY interface called Navigator.
