@@ -1,7 +1,7 @@
 # DeathToNavigator
 
 # ITS SO OVER NOOOOO
-meta has recently patched this method to remove the "focused" UI, now since i have no other reason to work on this (i use a vive pro eye now) i will be discontinuing this, cya later.
+meta has recently patched this method to remove the "focused" UI, now since i have no other reason to work on this (i use a vive pro eye now) i will be discontinuing this, cya later. "We will wake up with a kettle of coffee before the sun and then we will battle for utopia’s shore." fuck meta, open source your shit do we dont have to deal with your piss poor updates.
 
 ## also hi bplayz!
 
